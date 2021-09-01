@@ -10,6 +10,6 @@ jobs:
       - name: Update gist
         uses: Saika-Z/waka-box@master
         env:
-          GH_TOKEN: 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 
-          GIST_ID: https://gist.github.com/Saika-Z/ 89c7e5767c4f69d8b2f77a9133ed92fc
+          GH_TOKEN: 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
+          GIST_ID: https://gist.github.com/Saika-Z/ Package%20Control.sublime-settings
           WAKATIME_API_KEY: 1e69b805-f7ff-4799-bd44-d37d15c2d078
