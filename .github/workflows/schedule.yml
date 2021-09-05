@@ -10,7 +10,7 @@ jobs:
       #- name: Install
         #run: npm ci
       - name: Update gist
-        #uses: Saika-Z/waka-box@master
+        uses: Saika-Z/waka-box@master
         #run: node ./index.js
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
