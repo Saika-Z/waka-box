@@ -14,5 +14,5 @@ jobs:
         #run: node ./index.js
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: https://gist.github.com/Saika-Z/af515579e9ab638d1de80d38175d2881
+          GIST_ID: af515579e9ab638d1de80d38175d2881
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
